@@ -42,6 +42,12 @@
       date: "March Mar 17, 2026 - [2026/03/17]",
       link: "https://youtu.be/1uypE_42kuc",
     },
+      {
+      number: 8,
+      title: "DataBase",
+      date: "March Mar 24, 2026 - [2026/03/24]",
+      link: "https://najah.zoom.us/rec/play/VPjZkLgkWOjY0M7wtVU4elCsoFqGJhS04iH31OWEB6rC4r6M7EKfh5tpy0z0f_8h85RkrDyuDC92ZyrD.1STR5SnVj8FabUUX?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FC1nDGd1iNVHSgnIDA3cloEFIJ0fuFAa_8T1uiDsc3BgAdPXFwTxSykR4UoXD2C6s.4_KFEa3PkPFjx8Uw",
+    },
   ];
 
   function renderLectureCards() {

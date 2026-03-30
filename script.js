@@ -44,9 +44,26 @@
     },
       {
       number: 8,
-      title: "DataBase",
+      title: "DataBase MySQL",
       date: "March Mar 24, 2026 - [2026/03/24]",
       link: "https://najah.zoom.us/rec/play/VPjZkLgkWOjY0M7wtVU4elCsoFqGJhS04iH31OWEB6rC4r6M7EKfh5tpy0z0f_8h85RkrDyuDC92ZyrD.1STR5SnVj8FabUUX?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FC1nDGd1iNVHSgnIDA3cloEFIJ0fuFAa_8T1uiDsc3BgAdPXFwTxSykR4UoXD2C6s.4_KFEa3PkPFjx8Uw",
+    },
+    
+
+
+
+       {
+      number: 9,
+      title: "ERD Discussion No Link",
+      date: "March Mar 28, 2026 - [2026/03/28]",
+      link: "",
+    },
+    
+       {
+      number: 10,
+      title: "NoSQL + ORM",
+      date: "March Mar 29, 2026 - [2026/03/29]",
+      link: "    https://najah.zoom.us/rec/play/6PEnvD22ISycd9erOr8Ua86GO7fdqAs2p9lyVfGBClotYqjLUpvxlpWt4ImqRDap6-7F3sKXs5aMivw.SbJJcC9nYxnuUf5m?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FdOLqsDtJOM5s_G_TpBoMUpZsjg7lA5bbLK7WgJBD0OJ9_xv72_a-t8h8mp_fZH2e.g0W7SV_om4gddzxg",
     },
   ];
 

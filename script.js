@@ -70,7 +70,7 @@
 
          {
       number: 11,
-      title: "title to be announced.",
+      title: "Querying & Associations With Sequelize",
       date: "March Apr 5, 2026 - [2026/04/05]",
       link: "https://najah.zoom.us/rec/play/wAG7NHCzxZlYCN5Fu6K12lN4Cs_HklqaT5cwu2O5wMhiFWYblT7Q0RA0ZaOYMrKFNDX0dkT6U8qJ_TUs.hfXeHG2geUo8wW6x?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fl9Cr9ZdFgytbnr9nxc5CmOIqFyazSQyDoDn0dvg8Vbv9rhA63gjfmyCWIFVstAz7.r_2zbECEcWjTQj2j",
 

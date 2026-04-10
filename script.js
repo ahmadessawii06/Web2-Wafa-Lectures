@@ -70,9 +70,20 @@
 
          {
       number: 11,
-      title: "Querying & Associations With Sequelize",
+      title: "Querying & Associations.",
       date: "March Apr 5, 2026 - [2026/04/05]",
       link: "https://najah.zoom.us/rec/play/wAG7NHCzxZlYCN5Fu6K12lN4Cs_HklqaT5cwu2O5wMhiFWYblT7Q0RA0ZaOYMrKFNDX0dkT6U8qJ_TUs.hfXeHG2geUo8wW6x?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fl9Cr9ZdFgytbnr9nxc5CmOIqFyazSQyDoDn0dvg8Vbv9rhA63gjfmyCWIFVstAz7.r_2zbECEcWjTQj2j",
+
+      
+    },
+
+
+
+          {
+      number: 12,
+      title: "Querying & Associations With Sequelize",
+      date: "March Apr 7, 2026 - [2026/04/07]",
+      link: "https://najah.zoom.us/rec/play/Kv1NR2cwADOf1JkyqMN692CQLORygNyFpHprDnC-EMtPzO6byQhiuU9NabFY6DwgGVVVaNBi2mTjcHKJ.qlFfXkXK0ayaSlwG?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FVVNzC18cOG17ny2ERfXU8wyEAeio68tPX6JI37Frbc0kIM19FgoXLbNlt-BkVEXc.Ie2VcuQj6O_eJTDu",
 
       
     },

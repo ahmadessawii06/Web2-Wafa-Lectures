@@ -44,7 +44,7 @@
     },
       {
       number: 8,
-      title: "DataBase MySQL + Express + Postman",
+      title: " MySQL + Express + Postman",
       date: "March Mar 24, 2026 - [2026/03/24]",
       link: "https://najah.zoom.us/rec/play/VPjZkLgkWOjY0M7wtVU4elCsoFqGJhS04iH31OWEB6rC4r6M7EKfh5tpy0z0f_8h85RkrDyuDC92ZyrD.1STR5SnVj8FabUUX?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FC1nDGd1iNVHSgnIDA3cloEFIJ0fuFAa_8T1uiDsc3BgAdPXFwTxSykR4UoXD2C6s.4_KFEa3PkPFjx8Uw",
     },
@@ -81,7 +81,7 @@
 
           {
       number: 12,
-      title: "Querying & Associations With Sequelize",
+      title: "Routers & MVC.",
       date: "March Apr 7, 2026 - [2026/04/07]",
       link: "https://najah.zoom.us/rec/play/Kv1NR2cwADOf1JkyqMN692CQLORygNyFpHprDnC-EMtPzO6byQhiuU9NabFY6DwgGVVVaNBi2mTjcHKJ.qlFfXkXK0ayaSlwG?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FVVNzC18cOG17ny2ERfXU8wyEAeio68tPX6JI37Frbc0kIM19FgoXLbNlt-BkVEXc.Ie2VcuQj6O_eJTDu",
 

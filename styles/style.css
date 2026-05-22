@@ -146,9 +146,13 @@ body {
   border-color: rgba(255, 255, 255, 0.9);
 }
 
+
+
+
 .lecture-circle {
   width: 48px;
   height: 48px;
+  min-width: 48px; /* إضافة هذه السطر */
   border-radius: 50%;
   background: #1f4f8a;
   color: white;
@@ -156,7 +160,7 @@ body {
   align-items: center;
   justify-content: center;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.2rem; /* تصغير الخط قليلاً إذا زاد عدد الأرقام */
   box-shadow: 0 6px 14px rgba(0, 60, 120, 0.3);
   border: 2px solid rgba(255, 255, 255, 0.5);
 }
@@ -236,3 +240,5 @@ body {
     align-items: start;
   }
 }
+
+

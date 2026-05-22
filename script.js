@@ -109,7 +109,7 @@
 
           {
       number: 14,
-      title: "Integrating Frontend with Backend",
+      title: "Frontend–Backend Integration Part-1",
       date: "March Apr 21, 2026 - [2026/04/21]",
       link: "https://najah.zoom.us/rec/play/LzlbuKCpbq_Imn2q5SCc_Unl_NO4pplVoVpfBvIUL_6I8BIFdFqEaV8eVR3RsZPCYtoTV4OdcJoMM2VZ.zDmA_RlUzltJg1Sr?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2F3TYVzCeBSPBB9ZE7v9Twc2Fy_Gx8lyAkM5G4nuWchKQ4UjQjgyie9fzFITriGhUY.A3vR2nbFYNqZ9AiD"
 
@@ -120,7 +120,7 @@
 
            {
       number: 15,
-      title: "Integrating Frontend with Backend - Part 2",
+      title: "Frontend–Backend Integration Part-2",
       date: "March Apr 26, 2026 - [2026/04/26]",
       link: "https://najah.zoom.us/rec/play/21KjLB0qHgArHBFKIG-2-DRwpBXGFUb78Fudk00_zmVVW7Q3SguVv9TutW7ENDlRQyvytZ6Cf75yF3LB.SlyA3KzK1cdqjrEa?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2FCQ7BoHGWDcv-bflty7l1PqbGhVQwsxVxaO-VXzbjxg55pnQ4YSL9kEAPU-R0aqKg.d0jfQeemAsxX387t"
 
@@ -141,7 +141,7 @@
 
      {
       number: 18,
-      title: "Solid Principles & Best Practices",
+      title: "Solid Principles",
       date: " May 05, 2026 - [2026/05/05]",
       link: "https://najah.zoom.us/rec/play/zrLIZ2_3-YLqtiyYuRigaXSW9UjBTI-OvOwuuXnLu-36ifyqkhWIQcb8CHgJyfLT8BbZrv21drX7-DFS.nFZz-J10KgrY4iuN?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnajah.zoom.us%2Frec%2Fshare%2Fb8mzwPz5DDL5KPbpcEcntp1LiXBh1naL1rAt5ZosGPEjBMvcSwniDvIXCsoY4pWJ.b2pTu2jtZIzgDX3Q"
 
